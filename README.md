@@ -4,3 +4,5 @@ The ban appeals bot for appealing your ban on the RedAl3rt // T3chyy discord ser
 This project was generated using Slappey.
 
 npm i -g slappey
+
+- Long discontinued and will no longer receive updates.
